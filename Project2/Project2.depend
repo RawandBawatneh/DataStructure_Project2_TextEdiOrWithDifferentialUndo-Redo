@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714091365 source:c:\users\nanak\desktop\data_structures\project2_data\project2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
